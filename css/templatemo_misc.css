@@ -49,7 +49,7 @@
 
 /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides img {
-  width: 130%;
+  width: 100%;
   display: block;
 }
 
@@ -100,7 +100,7 @@ html[xmlns] .slides {
 }
 
 .loading .flex-viewport {
-  max-height: 300px;
+  max-height: 100px;
 }
 
 .flexslider .slides {

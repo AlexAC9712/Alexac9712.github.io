@@ -788,7 +788,7 @@ hr {
   color: white;
   background-color: #50cf6b;
   text-transform: uppercase;
-  border: 0;
+  border: 100%;
 }
 
 #go-top {
@@ -800,7 +800,7 @@ hr {
 }
 
 #footer {
-  margin-top: 130px;
+  margin-top: 100px;
 }
 .imagenpequeña
 {
